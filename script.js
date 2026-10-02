@@ -63,6 +63,7 @@ const translations = {
     "audience.tt.countries": {en:"Japan, United States", ja:"日本、アメリカ", ko:"일본, 미국"},
     "menu.heading": {en:"Filming &amp; Promotion Menu", ja:"撮影・プロモーションメニュー", ko:"촬영 및 프로모션 메뉴"},
     "menu.subtitle": {en:"Prices in Japanese yen, per session. Currently booking across Japan.", ja:"価格は1セッションあたりの日本円表示です。現在、日本全国で予約受付中です。", ko:"가격은 세션당 일본 엔화 기준입니다. 현재 일본 전역에서 예약을 받고 있습니다."},
+    "menu.smallbiz.note": {en:"This plan is designed for independently owned shops and small enterprise. Large businesses should contact us separately.", ja:"本プランは、個人経営店および小規模事業者様を対象としています。大企業のお客様は別途お問い合わせください。", ko:"본 플랜은 독립적으로 운영되는 매장 및 소규모 사업체를 위해 설계되었습니다. 대기업 고객님은 별도로 문의해 주세요."},
     "tax.label": {en:"tax", ja:"税別", ko:"세금 별도"},
     "tier1.name": {en:"Standard Plan", ja:"スタンダードプラン", ko:"스탠다드 플랜"},
     "tier1.desc": {en:"A full session, filmed and edited, distributed to our global audience of over 3.5 million followers across platforms.", ja:"撮影から編集までを含むフルセッションを、350万人を超える全プラットフォームの視聴者へ配信します。", ko:"촬영부터 편집까지 포함된 풀 세션을 플랫폼 전체 350만 명 이상의 글로벌 팔로워에게 배포합니다."},
