@@ -200,6 +200,12 @@
     font-size:0.86rem;
     color:var(--stone);
   }
+  .hero-stat .hero-stat-platforms{
+    display:block;
+    margin-top:4px;
+    font-size:0.78rem;
+    opacity:.8;
+  }
 
   /* marquee ticker */
   .ticker{
@@ -528,6 +534,30 @@
     color:var(--stone);
     font-size:0.86rem;
     margin-top:8px;
+  }
+  .menu-guarantee{
+    text-align:center;
+    max-width:560px;
+    margin:0 auto 20px;
+    padding:24px 28px;
+    border:1px solid var(--ember);
+  }
+  .menu-guarantee h4{
+    font-family:'Fraunces','Noto Sans JP','Noto Sans KR', serif;
+    font-weight:500;
+    font-size:1.3rem;
+    color:var(--ember-soft);
+    margin:0 0 10px;
+  }
+  .menu-guarantee p{
+    color:var(--cream);
+    font-size:0.94rem;
+    margin:0;
+  }
+  .menu-guarantee .menu-guarantee-terms{
+    color:var(--stone);
+    font-size:0.8rem;
+    margin-top:12px;
   }
   .menu-tier{
     padding:28px 0;
